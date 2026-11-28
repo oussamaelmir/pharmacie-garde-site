@@ -1,0 +1,7139 @@
+{
+ "area": "maroc",
+ "published_at": "2026-11-28T17:00:00Z",
+ "snapshot": "data/snapshots/2026-11-28/1656",
+ "sources": [
+  "guidepharmacies",
+  "lematin",
+  "sahha",
+  "wadifapublic"
+ ],
+ "shifts": [
+  {
+   "pharmacy_id": "agadir-agadir-oufella",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "agadir-agharass",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "agadir-al-mouna",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "sahha": "2026-11-29T10:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "agadir-amicales",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "agadir-amrani",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T10:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T10:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "agadir-bab-founty",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "sahha": "2026-11-29T10:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "agadir-bachouch",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "agadir-bayane-al-houda",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "agadir-borj-taddart",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "sahha": "2026-11-29T10:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "agadir-cite-al-houda",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "sahha": "2026-11-29T10:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "agadir-el-amri",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "sahha": "2026-11-29T10:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "agadir-facultes",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "sahha": "2026-11-29T10:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "agadir-france",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "sahha": "2026-11-29T10:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "agadir-ibn-malik",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T10:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T10:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "agadir-jardins-souss",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "agadir-nouib",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "lematin"
+   ],
+   "start_assumed": true,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "agadir-palais",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "sahha": "2026-11-29T10:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "agadir-paris",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "agadir-quartiers",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "agadir-rady",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "agadir-riad-alhouda",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "lematin"
+   ],
+   "start_assumed": true,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "agadir-salam",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "agadir-souk-al-had",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "ain-aouda-al-kasbah",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T00:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "guidepharmacies"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "guidepharmacies": "Centre (9h à 00h00)"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-29T00:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "ain-aouda-andaloussi",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T00:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "guidepharmacies"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "guidepharmacies": "Centre (24h/24h)"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-29T00:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "ain-aouda-annassiha",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T00:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "guidepharmacies"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "guidepharmacies": "Oulad Mtaâ (9h00 à 23h00)"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-29T00:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "ain-aouda-azirar",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "ain-aouda-beni-hachem",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-30T00:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "guidepharmacies"
+   ],
+   "start_assumed": true,
+   "end_assumed": false,
+   "source_labels": {
+    "guidepharmacies": "El Massira (9h à 00h00)"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-30T00:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "ain-aouda-erraha",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "guidepharmacies"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "guidepharmacies": "El Guich Oudaya (9h à 23h00) Guich Loudaya, Témara, Pachalik de Témara, Préfecture de Skhirate-Témara, Rabat-Salé-Kénitra, 10023, Maroc"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-28T23:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "ain-aouda-masjid-annour",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "guidepharmacies"
+   ],
+   "start_assumed": true,
+   "end_assumed": true,
+   "source_labels": {
+    "guidepharmacies": "Tamesna"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-28T23:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "ain-aouda-roudani",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T00:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "guidepharmacies"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "guidepharmacies": "Centre (9h à 00h00)"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-29T00:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "ait-melloul-ait-melloul",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "ait-melloul-al-hayat",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "ait-melloul-alhilal-alakhdar",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "ait-melloul-alhouda",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "ait-melloul-chifa-argana",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "ait-melloul-elfarah",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "ait-melloul-granada",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "ait-melloul-l-atlas",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "ait-melloul-nouri",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "ait-melloul-nouvelle-ait-melloul",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "al-hoceima-al-qods",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "al-hoceima-pasteur",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "anza-taddart-ibn-malik",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "anza-taddart-lolita",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "azrou-ramis",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "ben-slimane-arroud",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "ben-slimane-hay-karim",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "ben-slimane-ziaida",
+   "start": "2026-11-28T10:00:00Z",
+   "end": "2026-11-29T10:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T10:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "beni-mellal-elmsalla",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "beni-mellal-ennajat",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "beni-mellal-ibn-rochd",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "beni-mellal-pasteur",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "benslimane-hay-karim",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "berkane-al-ahram",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "berkane-l-espoir",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "berkane-pasteur",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "berkane-tahri",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "berrechid-al-mandar-al-jamil",
+   "start": "2026-11-28T12:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "berrechid-alwahda",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "berrechid-el-fath",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "berrechid-familles",
+   "start": "2026-11-28T08:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "berrechid-principale",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "biougra-maalla",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "biougra-touama",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "boujad-ibno-ennafis",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-al-boudour",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-albaida",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde De Nuit",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-badre",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde De Jour",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-28T23:00:00Z",
+    "sahha": "2026-11-29T00:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-bayti-oulfa",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-boualam",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T00:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "lematin": "Garde De Nuit",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "sahha": "2026-11-29T00:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-caire",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T00:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "lematin": "Garde De Nuit",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "sahha": "2026-11-29T00:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-californie",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde De Jour",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-28T23:00:00Z",
+    "sahha": "2026-11-29T00:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-chaaoub",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-choura-al-assil",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T00:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "lematin": "Garde De Nuit",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "sahha": "2026-11-29T00:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-clinique-andalous",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T00:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "sahha": "2026-11-29T00:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-diwane",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T00:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "lematin": "Garde De Nuit",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "sahha": "2026-11-29T00:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-el-alaoui",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde De Nuit",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-el-anadel",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-el-farissi",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde De Jour",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-28T23:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-el-jabr",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde De Nuit",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-el-yousr",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde De Jour",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-28T23:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-extension-anassi",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde De Nuit",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-fath-el-khair",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-garden-california",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-grande-ceinture",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde De Nuit",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-hajar",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde De Jour",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-28T23:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-idoudre",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-jabrane",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde De Nuit",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-jamea-al-adarissa",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-jardins-l-oulfa",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-khouloud",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-kissariat-hay-mohammadi",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde De Nuit",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-lys",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-mirabel",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde De Jour",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-28T23:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-ottour",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde De Jour",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-28T23:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-oued-zem",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-prefecture",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde De Nuit",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-residence-el-mouahidine",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde De Nuit",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-riad-sidi-moumen",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-senhaja",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde De Nuit",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-univers",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "casablanca-yacoub-el-mansour",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde De Jour",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-28T23:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "chefchaouen-mont-bleu",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "dakhla-al-wahda",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "dcheira-al-amane",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "dcheira-vittoria",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "el-jadida-achifae",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "el-jadida-azzaitouna",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "el-jadida-bir-anzarane",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "el-jadida-centrale",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "el-jadida-el-khansaa",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "el-jadida-faculte",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "el-jadida-hajji",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "el-jadida-liban",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "el-jadida-lina",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "el-jadida-oasis",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "el-jadida-oasis-el-jadida",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "el-jadida-rabi",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "el-jadida-timouyasse",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "el-kelaa-des-sraghna-hilal",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "errachidia-mohamed-yasser",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "errachidia-naim",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "essaouira-alyamama",
+   "start": "2026-11-27T23:00:00Z",
+   "end": "2026-11-28T10:00:00Z",
+   "kind": "night",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T10:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "fes-al-farouk",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "fes-al-hanae",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "fes-al-ichrak",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "sahha": "2026-11-30T10:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "fes-bab-el-ghoul",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-30T10:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "fes-jbel-taghat",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "fes-kandoussi",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-30T10:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "fes-l-entente",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-30T10:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "fes-louajryene",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-30T10:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "fes-malaika",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-30T10:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "fes-manabie-ain-chkef",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "fes-sandra",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "sahha": "2026-11-30T10:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "fquih-ben-salah-sidi-ahmed-daoui",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "guelmim-moderne",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "guelmim-tafilalet",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "guercif-moderne",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "guercif-ouled-hamoussa",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "inezgane-almassira",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "inezgane-alwafa",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "inezgane-hader",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "inezgane-masdoura",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "inezgane-souq",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "inezgane-sud",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "kasba-tadla-elmhirzate",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "kenitra-al-khabbazat-populaire",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "kenitra-al-maghreb-arabi",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "kenitra-al-wiam",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "kenitra-echam",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "kenitra-foret",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "kenitra-lycee-mohammed-v",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "kenitra-ramdani",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "kenitra-riad",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "khemisset-al-maqdisse",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "khemisset-jaouhara",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "khemisset-meriem",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "khenifra-ennajd",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "khenifra-ghrissi",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "khouribga-al-adarissa",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "khouribga-al-masjid",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "khouribga-amtoun",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "khouribga-rabbani",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "khouribga-village",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "laayoune-al-hagounia",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "laayoune-biyadi-allah",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "laayoune-el-mazmour",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "laayoune-hopitaux",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "larache-al-yakout",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "larache-farola",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "larache-lalla-mennana",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "marrakech-abdelkrim-el-khattabi",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 23:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T23:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "marrakech-al-badr",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 23:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T23:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "marrakech-al-fath",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 23:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T23:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "marrakech-al-imam-malek",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 23:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T23:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "marrakech-asafar",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 23:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T23:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "marrakech-baghdad",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 23:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T23:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "marrakech-bennouna",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 23:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T23:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "marrakech-chaouf",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 23:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T23:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "marrakech-chater",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 23:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T23:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "marrakech-el-amri",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "marrakech-el-badii",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "marrakech-el-hara",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "marrakech-el-mazani",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "marrakech-kezibri",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "marrakech-l-hivernage",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "marrakech-masjid-daoudiate",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "marrakech-nation",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 23:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T23:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "marrakech-portes-gueliz",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "marrakech-qaryia-syahyia",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "marrakech-residance-annassim",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "marrakech-salma",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "marrakech-sidi-m-barek",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "marrakech-sidi-ouaggag",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "marrakech-socoma",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "marrakech-tallaght",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "marrakech-zerktouni",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "mechraa-bel-ksiri-marche",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "mechraa-bel-ksiri-populaire",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "mechraa-bel-ksiri-yasmine",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "meknes-abderrahmane-ben-zaidane",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "meknes-ain-slougui",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "meknes-averroes",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "meknes-hopital-mohammed-v",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "meknes-kamelia",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "meknes-l-aviation",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "meknes-loubaba",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "meknes-rhribi",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "meknes-roche-rouge",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "meknes-route-bridia",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "meknes-saada",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "mohammedia-amina",
+   "start": "2026-11-28T08:00:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 23:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T23:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "mohammedia-hay-lasamir",
+   "start": "2026-11-28T08:00:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 23:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T23:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "mohammedia-ibn-sina",
+   "start": "2026-11-28T08:00:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 23:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T23:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "mohammedia-idham",
+   "start": "2026-11-28T08:00:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 23:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T23:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "mohammedia-l-espoir",
+   "start": "2026-11-28T08:00:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 23:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T23:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "mohammedia-linaya",
+   "start": "2026-11-28T08:00:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 23:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T23:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "mohammedia-miramar",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "mohammedia-nassim",
+   "start": "2026-11-28T08:00:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 23:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T23:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "mohammedia-oum-rachad",
+   "start": "2026-11-28T08:00:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 23:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T23:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "mohammedia-palmier",
+   "start": "2026-11-28T08:00:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 23:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T23:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "mohammedia-siesta",
+   "start": "2026-11-28T08:00:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 23:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T23:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "mrirt-bassatine",
+   "start": "2026-11-27T21:00:00Z",
+   "end": "2026-11-28T09:00:00Z",
+   "kind": "night",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "mrirt-hamdoune",
+   "start": "2026-11-27T21:00:00Z",
+   "end": "2026-11-28T09:00:00Z",
+   "kind": "night",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "nador-al-hikma",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "nador-alandalous",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "nador-alhilal",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "nador-almahatta",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "nador-dar-el-makhzen",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "nador-espana",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "nador-ouled-mimoun",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "nador-taha-houssein",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "ouarzazate-dadouch",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "ouarzazate-noumidia",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "ouarzazate-principale",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "ouazzane-conseil",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "oued-zem-lamsalla",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "oued-zem-oued-zem",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "oujda-al-bakri",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "oujda-al-haramayne",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "oujda-al-haramayne",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "oujda-el-meskyny",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "oujda-harcha",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "oujda-lalla-asmae",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "oujda-mohammed-vi-exessaoura",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "oujda-ouiam-al-fath",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "lematin",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "lematin": "Garde 24/24",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "lematin": "2026-11-29T09:00:00Z",
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "oujda-rif",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "oujda-sabahi",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "oujda-salle-couverte",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "rabat-al-kifah",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T00:00:00Z",
+   "kind": "day",
+   "confidence": "conflict",
+   "sources": [
+    "guidepharmacies",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "guidepharmacies": "Yacoub El Mansour (9h à 00h00)",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-29T00:00:00Z",
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "rabat-bab-jdid",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "rabat-bou-regreg",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "guidepharmacies",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "guidepharmacies": "Takadoum & Souissi (24h/24h)",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-30T09:00:00Z",
+    "sahha": "2026-11-29T10:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "rabat-city-center",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "guidepharmacies",
+    "lematin",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "guidepharmacies": "Hay Riad 24h/24h",
+    "lematin": "Garde 24/24",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-30T09:00:00Z",
+    "lematin": "2026-11-29T09:00:00Z",
+    "sahha": "2026-11-29T10:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "rabat-dar-essalam",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "guidepharmacies",
+    "lematin",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "guidepharmacies": "Takadoum & Souissi (24h/24h)",
+    "lematin": "Garde 24/24",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-30T09:00:00Z",
+    "lematin": "2026-11-29T09:00:00Z",
+    "sahha": "2026-11-29T10:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "rabat-el-hanae",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "conflict",
+   "sources": [
+    "guidepharmacies",
+    "lematin",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "guidepharmacies": "Akkari-Ocean 24h/24h",
+    "lematin": "Garde De Jour",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-29T00:00:00Z",
+    "lematin": "2026-11-28T23:00:00Z",
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "rabat-el-manzeh-al-manal",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "conflict",
+   "sources": [
+    "guidepharmacies",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "guidepharmacies": "Yacoub El Mansour (9h à 00h00)",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-30T00:00:00Z",
+    "sahha": "2026-11-29T10:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "rabat-minaret",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "conflict",
+   "sources": [
+    "guidepharmacies",
+    "lematin",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "guidepharmacies": "Ocean-Orangers (9h à 00h00)",
+    "lematin": "Garde De Jour",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-29T00:00:00Z",
+    "lematin": "2026-11-28T23:00:00Z",
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "rabat-ministeres-d-agdal",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "guidepharmacies",
+    "lematin",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "guidepharmacies": "Agdal 24h/24h",
+    "lematin": "Garde 24/24",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-30T09:00:00Z",
+    "lematin": "2026-11-29T09:00:00Z",
+    "sahha": "2026-11-29T10:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "rabat-mourad",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T00:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "guidepharmacies",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "guidepharmacies": "Yacoub El Mansour (24h/24h)",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-29T00:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "rabat-theatre",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "conflict",
+   "sources": [
+    "guidepharmacies",
+    "lematin",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "guidepharmacies": "Centre Ville (9h à 00h00)",
+    "lematin": "Garde 24/24",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-30T00:00:00Z",
+    "lematin": "2026-11-29T09:00:00Z",
+    "sahha": "2026-11-29T10:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "safi-attadamoun",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "safi-el-hanaa",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "safi-ezohour",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "safi-kaouki",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "safi-safia",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "sale-al-ahd-aljadid",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "sale-al-houda",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "sale-al-jadida-elixir",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "sale-al-jadida-errai",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "sale-atrassi",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "guidepharmacies",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "guidepharmacies": "El Mazza Sidi Abdellah 24h/24h",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-30T09:00:00Z",
+    "sahha": "2026-11-29T10:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "sale-centre-sante",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "guidepharmacies",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "guidepharmacies": "Hay Arrahma (24h/24h)",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-30T09:00:00Z",
+    "sahha": "2026-11-29T10:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "sale-chellaline",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T00:00:00Z",
+   "kind": "day",
+   "confidence": "conflict",
+   "sources": [
+    "guidepharmacies",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "guidepharmacies": "Salé Médina (9h à 00h00)",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-29T00:00:00Z",
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "sale-cite-chmaou",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "sale-dyar",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "guidepharmacies",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "guidepharmacies": "Tabriquet 24h/24h",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-30T09:00:00Z",
+    "sahha": "2026-11-29T10:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "sale-elixir",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T00:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "guidepharmacies",
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "guidepharmacies": "Sala El Jadida (24h/24h)",
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-29T00:00:00Z",
+    "sahha": "2026-11-29T01:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "sale-ennaciri-abouab-sala",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "guidepharmacies",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "guidepharmacies": "Al Mohit Abouab Sala 24h/24h",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-30T09:00:00Z",
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "sale-errai",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "conflict",
+   "sources": [
+    "guidepharmacies",
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "guidepharmacies": "Sala El Jadida (9h à 00h00)",
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-30T00:00:00Z",
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "sale-ghriss",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T00:00:00Z",
+   "kind": "day",
+   "confidence": "conflict",
+   "sources": [
+    "guidepharmacies",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "guidepharmacies": "Bettana (9h à 00h00)",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-29T00:00:00Z",
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "sale-marzouka",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T10:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "guidepharmacies",
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "guidepharmacies": "Hay Chmaou 24h/24h",
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-30T09:00:00Z",
+    "sahha": "2026-11-29T10:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "sale-naciri",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T10:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T10:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "sale-nahda",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "guidepharmacies",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "guidepharmacies": "Hay Essalam 24h/24h",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-30T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "sale-taib",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "sale-yacouta",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "sefrou-al-amal",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "sefrou-bab-elmakam",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "sefrou-cascades",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "sefrou-centrale",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "selouane-imam-malek",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "selouane-taourirt-bousatta",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "settat-ain-nezagh",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "settat-allal-ben-abdellah",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "settat-haja-fatna",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "settat-ibn-sina",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "settat-maarouf",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "sidi-bennour-errazi",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "sidi-kacem-errazi",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "sidi-kacem-yasmina",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "sidi-slimane-abdelilah",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "sidi-slimane-sidi-slimane",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "skhirat-annour",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "souk-el-arba-du-gharb-boushaba",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tahla-oualid",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tamesna-masjid-annour",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tamesna-sendid",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tan-tan-sahara",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tan-tan-tiguiria",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tanger-abi-abass-sebti",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tanger-ahlan",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tanger-aiche",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tanger-aida",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tanger-ain-jdida",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tanger-al-bouchra",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tanger-al-irfane",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tanger-al-ouroud-malika",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tanger-anas",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tanger-anegay",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tanger-anoual",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tanger-beni-makada",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tanger-biladi",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tanger-charf",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tanger-el-hsissen",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tanger-hadir",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tanger-madkhal-al-karim",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tanger-mesnana",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tanger-noran",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tanger-parc",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tanger-pasteur",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tanger-sania-malabata",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "taourirt-achour",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "temara-abi-horaira",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "temara-al-anouar",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "temara-al-kasbah",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T00:00:00Z",
+   "kind": "day",
+   "confidence": "conflict",
+   "sources": [
+    "guidepharmacies",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "guidepharmacies": "Centre (9h à 00h00)",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-29T00:00:00Z",
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "temara-al-mostaocef",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T00:00:00Z",
+   "kind": "day",
+   "confidence": "conflict",
+   "sources": [
+    "guidepharmacies",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "guidepharmacies": "El Massira (24h/24h)",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-29T00:00:00Z",
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "temara-almoubaraka",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "temara-andaloussi",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T00:00:00Z",
+   "kind": "day",
+   "confidence": "conflict",
+   "sources": [
+    "guidepharmacies",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "guidepharmacies": "Centre (24h/24h)",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-29T00:00:00Z",
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "temara-annassiha",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "conflict",
+   "sources": [
+    "guidepharmacies",
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "guidepharmacies": "Oulad Mtaâ (9h00 à 23h00)",
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-29T00:00:00Z",
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "temara-beni-hachem",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "conflict",
+   "sources": [
+    "guidepharmacies",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "guidepharmacies": "El Massira (9h à 00h00)",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-30T00:00:00Z",
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "temara-erraha",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "conflict",
+   "sources": [
+    "guidepharmacies",
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "guidepharmacies": "El Guich Oudaya (9h à 23h00) Guich Loudaya, Témara, Pachalik de Témara, Préfecture de Skhirate-Témara, Rabat-Salé-Kénitra, 10023, Maroc",
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-28T23:00:00Z",
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "temara-harhoura-grande-mosquee",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "temara-jardins-des-oudayas",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "temara-masjid-annour",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T23:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "guidepharmacies"
+   ],
+   "start_assumed": true,
+   "end_assumed": true,
+   "source_labels": {
+    "guidepharmacies": "Tamesna"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-28T23:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "temara-roudani",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T00:00:00Z",
+   "kind": "day",
+   "confidence": "conflict",
+   "sources": [
+    "guidepharmacies",
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "guidepharmacies": "Centre (9h à 00h00)",
+    "sahha": "24h/24",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "guidepharmacies": "2026-11-29T00:00:00Z",
+    "sahha": "2026-11-29T09:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tetouan-al-aqsa",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tetouan-al-missahat",
+   "start": "2026-11-28T16:59:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": true,
+   "source_labels": {
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tetouan-baghdad",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tetouan-chikri",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tetouan-rommana",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tetouan-sidi-elmandri",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tetouan-souk-elfouki",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tetouan-tetouan",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "confirmed",
+   "sources": [
+    "sahha",
+    "wadifapublic"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00",
+    "wadifapublic": "De garde / Ouverte"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z",
+    "wadifapublic": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tikiouine-quartiers",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tikiouine-sante",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tinghir-alyosr-tihite",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tiznit-elmers",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "tiznit-gare",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "youssoufia-iksir",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "zagora-assafar",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "zagora-ibn-sina-avicenne",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "kind": "day",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "jusqu'à 21:00"
+   },
+   "source_ends": {
+    "sahha": "2026-11-28T21:00:00Z"
+   }
+  },
+  {
+   "pharmacy_id": "zeghanghane-nia",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-29T09:00:00Z",
+   "kind": "24h",
+   "confidence": "single",
+   "sources": [
+    "sahha"
+   ],
+   "start_assumed": false,
+   "end_assumed": false,
+   "source_labels": {
+    "sahha": "24h/24"
+   },
+   "source_ends": {
+    "sahha": "2026-11-29T09:00:00Z"
+   }
+  }
+ ],
+ "stats": {
+  "shifts": 360,
+  "carried": 0,
+  "confirmed": 156,
+  "conflict": 15,
+  "single": 189
+ }
+}

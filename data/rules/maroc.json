@@ -1,0 +1,168 @@
+{
+  "area": "maroc",
+  "timezone": "Africa/Casablanca",
+  "_timezone_note": "Morocco is on permanent GMT since 20 Sept 2026 (decree 2.26.530). Still: always use the tz database, never a fixed offset.",
+  "river_line": {
+    "lat0": 34.035,
+    "lng0": -6.84,
+    "slope": -0.75,
+    "bbox": {
+      "lat_min": 33.85,
+      "lat_max": 34.15,
+      "lng_min": -6.95,
+      "lng_max": -6.65
+    },
+    "_comment": "Straight-line approximation of the Bouregreg, applied only inside bbox; north of the line = Salé bank."
+  },
+  "cities": {
+    "rabat": {
+      "label": "Rabat",
+      "bank": "south"
+    },
+    "sale": {
+      "label": "Salé",
+      "bank": "north"
+    },
+    "temara": {
+      "label": "Témara",
+      "bank": "south"
+    }
+  },
+  "default_windows": {
+    "_comment": "Used only when a source gives a label but no hours. Shifts built from these are flagged *_assumed. The 24h window 09:00 -> 09:00 next day matches sahha.ma's explicit hours on 14 Nov 2026; cure.ma showed 12:00 next day for some entries. VERIFY during the data check.",
+    "24h": {
+      "start": "09:00",
+      "end": "09:00",
+      "end_next_day": true
+    },
+    "day": {
+      "start": "09:00",
+      "end": "23:00",
+      "end_next_day": false
+    },
+    "night": {
+      "start": "21:00",
+      "end": "09:00",
+      "end_next_day": true
+    }
+  },
+  "normal_hours": {
+    "_comment": "Owner's statement (15 Nov 2026): 10:00-20:00 Monday to Saturday. Public information says hours are set per prefecture (e.g. Casablanca 9:00-12:30 / 16:00-20:30, Saturday morning). Used only to show a soft hint and the 'all pharmacies' link; the roster answer is always shown.",
+    "weekday": [
+      "10:00",
+      "20:00"
+    ],
+    "saturday": [
+      "10:00",
+      "20:00"
+    ],
+    "sunday": null
+  },
+  "selection": {
+    "straight_line_factor": 1.4,
+    "speed_kmh": 25,
+    "margin_minutes": 10,
+    "cross_river_penalty": 2.0,
+    "comparable_distance_factor": 1.5,
+    "max_distance_km": 40,
+    "_max_distance_comment": "A garde pharmacy farther than this (straight line) is never proposed: better to say none is known nearby than to send someone to another city."
+  },
+  "freshness": {
+    "roster_max_age_hours": 24,
+    "source_max_age_hours": 24
+  },
+  "quartiers": {
+    "_comment": "Centroids for the quartier picker when location is unavailable. Rough centres from the source pins seen on 14 Nov 2026; VERIFY with the owner.",
+    "rabat-agdal": {
+      "label": "Agdal",
+      "city": "rabat",
+      "lat": 34.003,
+      "lng": -6.853
+    },
+    "rabat-hassan": {
+      "label": "Hassan / Centre-ville",
+      "city": "rabat",
+      "lat": 34.022,
+      "lng": -6.83
+    },
+    "rabat-medina": {
+      "label": "Médina",
+      "city": "rabat",
+      "lat": 34.026,
+      "lng": -6.833
+    },
+    "rabat-ocean": {
+      "label": "Océan / Orangers",
+      "city": "rabat",
+      "lat": 34.016,
+      "lng": -6.85
+    },
+    "rabat-hay-riad": {
+      "label": "Hay Riad",
+      "city": "rabat",
+      "lat": 33.96,
+      "lng": -6.856
+    },
+    "rabat-souissi": {
+      "label": "Souissi",
+      "city": "rabat",
+      "lat": 33.975,
+      "lng": -6.83
+    },
+    "rabat-takaddoum": {
+      "label": "Takaddoum / Mabella",
+      "city": "rabat",
+      "lat": 33.993,
+      "lng": -6.821
+    },
+    "rabat-yacoub-el-mansour": {
+      "label": "Yacoub El Mansour",
+      "city": "rabat",
+      "lat": 33.985,
+      "lng": -6.885
+    },
+    "sale-medina": {
+      "label": "Salé Médina / Bettana",
+      "city": "sale",
+      "lat": 34.034,
+      "lng": -6.81
+    },
+    "sale-tabriquet": {
+      "label": "Tabriquet",
+      "city": "sale",
+      "lat": 34.04,
+      "lng": -6.8
+    },
+    "sale-hay-arrahma": {
+      "label": "Hay Arrahma / Hay Salam",
+      "city": "sale",
+      "lat": 34.06,
+      "lng": -6.79
+    },
+    "sale-sala-al-jadida": {
+      "label": "Sala Al Jadida",
+      "city": "sale",
+      "lat": 33.998,
+      "lng": -6.735
+    },
+    "temara-centre": {
+      "label": "Témara centre",
+      "city": "temara",
+      "lat": 33.915,
+      "lng": -6.915
+    },
+    "temara-oulad-mtaa": {
+      "label": "Oulad Mtaa / Massira",
+      "city": "temara",
+      "lat": 33.935,
+      "lng": -6.9
+    },
+    "temara-tamesna": {
+      "label": "Tamesna",
+      "city": "temara",
+      "lat": 33.828,
+      "lng": -6.936
+    }
+  },
+  "_comment": "National rules. cities: banks for the Rabat/Salé/Témara river rule only; the city list itself is data/cities.json. quartiers: picker entries for the Rabat area; other cities use their centroid."
+}

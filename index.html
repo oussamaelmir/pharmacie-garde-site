@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="PharMaroc" />
+    <meta name="theme-color" content="#0b3d2e" />
+    <link rel="apple-touch-icon" href="icons/apple-touch-icon.png" />
+    <title>PharMaroc</title>
+    <script type="module" crossorigin src="/pharmacie-garde-site/assets/index-CupfK-w2.js"></script>
+    <link rel="stylesheet" crossorigin href="/pharmacie-garde-site/assets/index-D9KaMkUK.css">
+  <link rel="manifest" href="/pharmacie-garde-site/manifest.webmanifest"></head>
+  <body>
+    <div id="root"></div>
+    <script>
+      // Beta diagnostics: an uncaught error must never leave a blank screen.
+      window.addEventListener("error", function (e) {
+        var r = document.getElementById("root");
+        if (r && !r.firstChild) r.innerHTML = '<pre style="padding:16px;white-space:pre-wrap;font:14px monospace;color:#8a1c1c">Erreur au démarrage :\n' + (e.message || e) + "\n" + (e.filename || "") + ":" + (e.lineno || "") + "</pre>";
+      });
+      window.addEventListener("unhandledrejection", function (e) {
+        var r = document.getElementById("root");
+        if (r && !r.firstChild) r.innerHTML = '<pre style="padding:16px;white-space:pre-wrap;font:14px monospace;color:#8a1c1c">Erreur au démarrage :\n' + (e.reason && e.reason.message ? e.reason.message : e.reason) + "</pre>";
+      });
+    </script>
+  </body>
+</html>

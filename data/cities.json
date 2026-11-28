@@ -1,0 +1,1623 @@
+{
+ "_comment": "Cities fetched by the pipeline, keyed by the slug each source uses. Labels derived from slugs; the owner may refine. lat/lng are filled by publish.py as the median of the pharmacy pins seen (never typed by hand).",
+ "cities": [
+  {
+   "key": "agadir",
+   "label": "Agadir",
+   "sources": {
+    "sahha": "agadir",
+    "lematin": "agadir",
+    "wadifapublic": "agadir"
+   },
+   "lat": 30.42052,
+   "lng": -9.58385,
+   "pharmacies_seen": 37,
+   "center_source": "osm"
+  },
+  {
+   "key": "ain-harrouda",
+   "label": "Ain Harrouda",
+   "sources": {
+    "sahha": "ain-harrouda"
+   },
+   "lat": 33.63537,
+   "lng": -7.4514,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "ain-taoujdate",
+   "label": "Ain Taoujdate",
+   "sources": {
+    "sahha": "ain-taoujdate"
+   },
+   "lat": 33.9403,
+   "lng": -5.20805,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "ait-melloul",
+   "label": "Aït Melloul",
+   "sources": {
+    "sahha": "ait-melloul",
+    "wadifapublic": "ait-melloul"
+   },
+   "lat": 30.33879,
+   "lng": -9.50447,
+   "pharmacies_seen": 17,
+   "center_source": "osm"
+  },
+  {
+   "key": "akhfennir",
+   "label": "Akhfennir",
+   "sources": {
+    "sahha": "akhfennir"
+   },
+   "lat": 28.09426,
+   "lng": -12.0512,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "al-arrui",
+   "label": "al Arrui",
+   "sources": {
+    "sahha": "al-arrui"
+   },
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "al-hoceima",
+   "label": "Al Hoceïma",
+   "sources": {
+    "sahha": "al-hoceima",
+    "wadifapublic": "al-hoceima"
+   },
+   "lat": 35.24511,
+   "lng": -3.93019,
+   "pharmacies_seen": 11,
+   "center_source": "osm"
+  },
+  {
+   "key": "aouli",
+   "label": "Aouli",
+   "sources": {
+    "sahha": "aouli"
+   },
+   "lat": 32.82691,
+   "lng": -4.57277,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "aourir",
+   "label": "Aourir",
+   "sources": {
+    "sahha": "aourir"
+   },
+   "lat": 30.49808,
+   "lng": -9.6711,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "arfoud",
+   "label": "Arfoud",
+   "sources": {
+    "sahha": "arfoud"
+   },
+   "lat": 31.43241,
+   "lng": -4.23426,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "asilah",
+   "label": "Asilah",
+   "sources": {
+    "sahha": "asilah"
+   },
+   "lat": 35.46193,
+   "lng": -6.03655,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "azemmour",
+   "label": "Azemmour",
+   "sources": {
+    "sahha": "azemmour"
+   },
+   "lat": 33.28814,
+   "lng": -8.34321,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "azilal",
+   "label": "Azilal",
+   "sources": {
+    "sahha": "azilal"
+   },
+   "lat": 31.9593,
+   "lng": -6.57099,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "azrou",
+   "label": "Azrou",
+   "sources": {
+    "sahha": "azrou"
+   },
+   "lat": 33.43612,
+   "lng": -5.22191,
+   "pharmacies_seen": 3,
+   "center_source": "osm"
+  },
+  {
+   "key": "bejaad",
+   "label": "Bejaad",
+   "sources": {
+    "sahha": "bejaad"
+   },
+   "lat": 32.76978,
+   "lng": -6.39498,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "ben-guerir",
+   "label": "Ben Guerir",
+   "sources": {
+    "sahha": "ben-guerir"
+   },
+   "lat": 32.23903,
+   "lng": -7.95813,
+   "center_source": "osm",
+   "pharmacies_seen": 9
+  },
+  {
+   "key": "ben-slimane",
+   "label": "Ben Slimane",
+   "sources": {
+    "sahha": "ben-slimane"
+   },
+   "lat": 33.6229,
+   "lng": -7.12672,
+   "pharmacies_seen": 11,
+   "center_source": "osm"
+  },
+  {
+   "key": "benguerir",
+   "label": "Benguerir",
+   "sources": {
+    "sahha": "benguerir"
+   },
+   "lat": 32.23903,
+   "lng": -7.95813,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "beni-ansar",
+   "label": "Beni Ansar",
+   "sources": {
+    "sahha": "beni-ansar"
+   },
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "beni-enzar",
+   "label": "Beni Enzar",
+   "sources": {
+    "sahha": "beni-enzar"
+   },
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "beni-mellal",
+   "label": "Béni Mellal",
+   "sources": {
+    "sahha": "beni-mellal",
+    "wadifapublic": "beni-mellal"
+   },
+   "lat": 32.33419,
+   "lng": -6.35334,
+   "pharmacies_seen": 12,
+   "center_source": "osm"
+  },
+  {
+   "key": "benslimane",
+   "label": "Benslimane",
+   "sources": {
+    "sahha": "benslimane",
+    "wadifapublic": "benslimane"
+   },
+   "lat": 33.6229,
+   "lng": -7.12672,
+   "center_source": "osm",
+   "pharmacies_seen": 10
+  },
+  {
+   "key": "berkane",
+   "label": "Berkane",
+   "sources": {
+    "sahha": "berkane"
+   },
+   "lat": 34.92668,
+   "lng": -2.32941,
+   "pharmacies_seen": 10,
+   "center_source": "osm"
+  },
+  {
+   "key": "berrechid",
+   "label": "Berrechid",
+   "sources": {
+    "sahha": "berrechid",
+    "wadifapublic": "berrechid"
+   },
+   "lat": 33.26767,
+   "lng": -7.58115,
+   "pharmacies_seen": 10,
+   "center_source": "osm"
+  },
+  {
+   "key": "biougra",
+   "label": "Biougra",
+   "sources": {
+    "sahha": "biougra"
+   },
+   "lat": 30.21552,
+   "lng": -9.36854,
+   "center_source": "osm",
+   "pharmacies_seen": 3
+  },
+  {
+   "key": "bir-jdid",
+   "label": "Bir Jdid",
+   "sources": {
+    "sahha": "bir-jdid"
+   },
+   "lat": 33.37377,
+   "lng": -7.99802,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "bouarfa",
+   "label": "Bouarfa",
+   "sources": {
+    "sahha": "bouarfa"
+   },
+   "lat": 32.5329,
+   "lng": -1.96323,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "boujad",
+   "label": "Boujad",
+   "sources": {
+    "sahha": "boujad",
+    "wadifapublic": "boujad"
+   },
+   "lat": 32.77317,
+   "lng": -6.38978,
+   "center_source": "pins",
+   "pharmacies_seen": 10
+  },
+  {
+   "key": "boujdour",
+   "label": "Boujdour",
+   "sources": {
+    "sahha": "boujdour"
+   },
+   "lat": 26.12634,
+   "lng": -14.48365,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "boulemane",
+   "label": "Boulemane",
+   "sources": {
+    "sahha": "boulemane"
+   },
+   "lat": 33.36597,
+   "lng": -4.73009,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "bouskoura",
+   "label": "Bouskoura",
+   "sources": {
+    "sahha": "bouskoura"
+   },
+   "lat": 33.45644,
+   "lng": -7.65067,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "bouznika",
+   "label": "Bouznika",
+   "sources": {
+    "sahha": "bouznika",
+    "wadifapublic": "bouznika"
+   },
+   "lat": 33.78101,
+   "lng": -7.16103,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "casablanca",
+   "label": "Casablanca",
+   "sources": {
+    "sahha": "casablanca",
+    "lematin": "casablanca",
+    "guidepharmacies": "casablanca",
+    "wadifapublic": "casablanca"
+   },
+   "lat": 33.59451,
+   "lng": -7.62003,
+   "pharmacies_seen": 94,
+   "center_source": "osm"
+  },
+  {
+   "key": "chefchaouen",
+   "label": "Chefchaouen",
+   "sources": {
+    "sahha": "chefchaouen"
+   },
+   "lat": 35.16877,
+   "lng": -5.26835,
+   "pharmacies_seen": 6,
+   "center_source": "osm"
+  },
+  {
+   "key": "chichaoua",
+   "label": "Chichaoua",
+   "sources": {
+    "sahha": "chichaoua"
+   },
+   "lat": 31.54632,
+   "lng": -8.76026,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "dakhla",
+   "label": "Dakhla",
+   "sources": {
+    "sahha": "dakhla",
+    "wadifapublic": "dakhla"
+   },
+   "lat": 23.69407,
+   "lng": -15.94313,
+   "center_source": "osm",
+   "pharmacies_seen": 1
+  },
+  {
+   "key": "dcheira",
+   "label": "Dcheira El Jihadia",
+   "sources": {
+    "sahha": "dcheira",
+    "wadifapublic": "dcheira"
+   },
+   "lat": 30.37528,
+   "lng": -9.52849,
+   "pharmacies_seen": 9,
+   "center_source": "osm"
+  },
+  {
+   "key": "demnate",
+   "label": "Demnate",
+   "sources": {
+    "sahha": "demnate"
+   },
+   "lat": 31.73222,
+   "lng": -7.00268,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "deroua",
+   "label": "Deroua",
+   "sources": {
+    "sahha": "deroua"
+   },
+   "lat": 33.37178,
+   "lng": -7.53583,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "driouch",
+   "label": "Driouch",
+   "sources": {
+    "sahha": "driouch"
+   },
+   "lat": 34.97694,
+   "lng": -3.391,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "el-aioun",
+   "label": "el Aioun",
+   "sources": {
+    "sahha": "el-aioun"
+   },
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "el-hajeb",
+   "label": "el Hajeb",
+   "sources": {
+    "sahha": "el-hajeb"
+   },
+   "lat": 33.69016,
+   "lng": -5.37194,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "el-jadida",
+   "label": "el Jadida",
+   "sources": {
+    "sahha": "el-jadida",
+    "wadifapublic": "el-jadida"
+   },
+   "lat": 33.24333,
+   "lng": -8.49884,
+   "pharmacies_seen": 30,
+   "center_source": "osm"
+  },
+  {
+   "key": "el-kelaa-des-sraghna",
+   "label": "El Kelaâ des Sraghna",
+   "sources": {
+    "sahha": "el-kelaa-des-sraghna",
+    "wadifapublic": "el-kelaa-des-sraghna"
+   },
+   "lat": 32.05389,
+   "lng": -7.40686,
+   "pharmacies_seen": 12,
+   "center_source": "osm"
+  },
+  {
+   "key": "errachidia",
+   "label": "Errachidia",
+   "sources": {
+    "sahha": "errachidia"
+   },
+   "lat": 31.92909,
+   "lng": -4.43408,
+   "pharmacies_seen": 9,
+   "center_source": "osm"
+  },
+  {
+   "key": "essaouira",
+   "label": "Essaouira",
+   "sources": {
+    "sahha": "essaouira"
+   },
+   "lat": 31.51183,
+   "lng": -9.76209,
+   "pharmacies_seen": 3,
+   "center_source": "osm"
+  },
+  {
+   "key": "fes",
+   "label": "Fès",
+   "sources": {
+    "sahha": "fes",
+    "lematin": "fes",
+    "wadifapublic": "fes"
+   },
+   "lat": 34.03465,
+   "lng": -5.01619,
+   "pharmacies_seen": 89,
+   "center_source": "osm"
+  },
+  {
+   "key": "figuig",
+   "label": "Figuig",
+   "sources": {
+    "sahha": "figuig"
+   },
+   "lat": 32.11505,
+   "lng": -1.2304,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "fnideq",
+   "label": "Fnideq",
+   "sources": {
+    "sahha": "fnideq"
+   },
+   "lat": 35.83921,
+   "lng": -5.36142,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "fquih-ben-salah",
+   "label": "Fquih Ben Salah",
+   "sources": {
+    "sahha": "fquih-ben-salah",
+    "wadifapublic": "fquih-ben-salah"
+   },
+   "lat": 32.504,
+   "lng": -6.67444,
+   "center_source": "pins",
+   "pharmacies_seen": 1
+  },
+  {
+   "key": "goulmima",
+   "label": "Goulmima",
+   "sources": {
+    "sahha": "goulmima"
+   },
+   "lat": 31.69263,
+   "lng": -4.95326,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "guelmim",
+   "label": "Guelmim",
+   "sources": {
+    "sahha": "guelmim"
+   },
+   "lat": 28.98639,
+   "lng": -10.05744,
+   "pharmacies_seen": 8,
+   "center_source": "osm"
+  },
+  {
+   "key": "guercif",
+   "label": "Guercif",
+   "sources": {
+    "sahha": "guercif"
+   },
+   "lat": 34.22558,
+   "lng": -3.35235,
+   "pharmacies_seen": 17,
+   "center_source": "osm"
+  },
+  {
+   "key": "had-soualem",
+   "label": "Had Soualem",
+   "sources": {
+    "sahha": "had-soualem"
+   },
+   "lat": 33.42226,
+   "lng": -7.85341,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "ifrane",
+   "label": "Ifrane",
+   "sources": {
+    "sahha": "ifrane"
+   },
+   "lat": 33.52761,
+   "lng": -5.10741,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "imouzzer-kandar",
+   "label": "Imouzzer Kandar",
+   "sources": {
+    "sahha": "imouzzer-kandar"
+   },
+   "lat": 33.73342,
+   "lng": -5.01049,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "imzouren",
+   "label": "Imzouren",
+   "sources": {
+    "sahha": "imzouren"
+   },
+   "lat": 35.14629,
+   "lng": -3.84973,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "inezgane",
+   "label": "Inezgane",
+   "sources": {
+    "sahha": "inezgane",
+    "wadifapublic": "inezgane"
+   },
+   "lat": 30.35629,
+   "lng": -9.54593,
+   "pharmacies_seen": 10,
+   "center_source": "osm"
+  },
+  {
+   "key": "jerada",
+   "label": "Jerada",
+   "sources": {
+    "sahha": "jerada"
+   },
+   "lat": 34.31053,
+   "lng": -2.15998,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "jorf-el-melha",
+   "label": "Jorf El Melha",
+   "sources": {
+    "sahha": "jorf-el-melha"
+   },
+   "lat": 34.4887,
+   "lng": -5.50915,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "kalaat-mgouna",
+   "label": "Kelaât M'Gouna",
+   "sources": {
+    "sahha": "kalaat-mgouna"
+   },
+   "lat": 31.2377,
+   "lng": -6.12934,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "kasba-tadla",
+   "label": "Kasba Tadla",
+   "sources": {
+    "sahha": "kasba-tadla",
+    "wadifapublic": "kasbah-tadla"
+   },
+   "lat": 32.60289,
+   "lng": -6.26971,
+   "center_source": "osm",
+   "pharmacies_seen": 4
+  },
+  {
+   "key": "kenitra",
+   "label": "Kénitra",
+   "sources": {
+    "sahha": "kenitra",
+    "guidepharmacies": "kenitra-mehdia",
+    "wadifapublic": "kenitra"
+   },
+   "lat": 34.26457,
+   "lng": -6.57017,
+   "center_source": "osm",
+   "pharmacies_seen": 41
+  },
+  {
+   "key": "khemisset",
+   "label": "Khemisset",
+   "sources": {
+    "sahha": "khemisset"
+   },
+   "lat": 33.83029,
+   "lng": -6.07261,
+   "pharmacies_seen": 9,
+   "center_source": "osm"
+  },
+  {
+   "key": "khenifra",
+   "label": "Khenifra",
+   "sources": {
+    "sahha": "khenifra",
+    "wadifapublic": "khenifra"
+   },
+   "lat": 32.93577,
+   "lng": -5.66965,
+   "pharmacies_seen": 17,
+   "center_source": "osm"
+  },
+  {
+   "key": "khouribga",
+   "label": "Khouribga",
+   "sources": {
+    "sahha": "khouribga",
+    "wadifapublic": "khouribga"
+   },
+   "lat": 32.88565,
+   "lng": -6.9088,
+   "pharmacies_seen": 16,
+   "center_source": "osm"
+  },
+  {
+   "key": "ksar-el-kebir",
+   "label": "Ksar El Kebir",
+   "sources": {
+    "sahha": "ksar-el-kebir"
+   },
+   "lat": 34.99922,
+   "lng": -5.89872,
+   "pharmacies_seen": 8,
+   "center_source": "osm"
+  },
+  {
+   "key": "laayoune",
+   "label": "Laâyoune",
+   "sources": {
+    "sahha": "laayoune",
+    "wadifapublic": "laayoune"
+   },
+   "lat": 27.15451,
+   "lng": -13.19539,
+   "pharmacies_seen": 12,
+   "center_source": "osm"
+  },
+  {
+   "key": "lalla-mimouna",
+   "label": "Lalla Mimouna",
+   "sources": {
+    "sahha": "lalla-mimouna"
+   },
+   "lat": 34.84887,
+   "lng": -6.06917,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "larache",
+   "label": "Larache",
+   "sources": {
+    "sahha": "larache",
+    "wadifapublic": "larache"
+   },
+   "lat": 35.19523,
+   "lng": -6.15291,
+   "center_source": "osm",
+   "pharmacies_seen": 12
+  },
+  {
+   "key": "marrakech",
+   "label": "Marrakech",
+   "sources": {
+    "sahha": "marrakech",
+    "lematin": "marrakech",
+    "wadifapublic": "marrakech"
+   },
+   "lat": 31.62583,
+   "lng": -7.98916,
+   "pharmacies_seen": 103,
+   "center_source": "osm"
+  },
+  {
+   "key": "martil",
+   "label": "Martil",
+   "sources": {
+    "sahha": "martil"
+   },
+   "lat": 35.61744,
+   "lng": -5.27415,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "mdiq",
+   "label": "M'diq",
+   "sources": {
+    "sahha": "mdiq"
+   },
+   "lat": 35.68336,
+   "lng": -5.32322,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "mdiq-fnideq",
+   "label": "M'diq-Fnideq",
+   "sources": {
+    "sahha": "mdiq-fnideq"
+   },
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "mechraa-bel-ksiri",
+   "label": "Mechraa Bel Ksiri",
+   "sources": {
+    "sahha": "mechraa-bel-ksiri"
+   },
+   "lat": 34.57769,
+   "lng": -5.95512,
+   "pharmacies_seen": 8,
+   "center_source": "pins"
+  },
+  {
+   "key": "mediouna",
+   "label": "Mediouna",
+   "sources": {
+    "sahha": "mediouna"
+   },
+   "lat": 33.45625,
+   "lng": -7.51944,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "meknes",
+   "label": "Meknès",
+   "sources": {
+    "sahha": "meknes",
+    "wadifapublic": "meknes"
+   },
+   "lat": 33.89841,
+   "lng": -5.53216,
+   "pharmacies_seen": 115,
+   "center_source": "osm"
+  },
+  {
+   "key": "midar",
+   "label": "Midar",
+   "sources": {
+    "sahha": "midar"
+   },
+   "lat": 34.9399,
+   "lng": -3.53435,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "midelt",
+   "label": "Midelt",
+   "sources": {
+    "sahha": "midelt"
+   },
+   "lat": 32.68035,
+   "lng": -4.7399,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "missour",
+   "label": "Missour",
+   "sources": {
+    "sahha": "missour"
+   },
+   "lat": 33.04706,
+   "lng": -3.99258,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "mohammed-v-airport",
+   "label": "Aéroport Mohammed V",
+   "sources": {
+    "sahha": "mohammed-v-airport"
+   },
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "mohammedia",
+   "label": "Mohammedia",
+   "sources": {
+    "sahha": "mohammedia",
+    "wadifapublic": "mohammedia"
+   },
+   "lat": 33.69584,
+   "lng": -7.38933,
+   "pharmacies_seen": 32,
+   "center_source": "osm"
+  },
+  {
+   "key": "moulay-bousselham",
+   "label": "Moulay Bousselham",
+   "sources": {
+    "sahha": "moulay-bousselham"
+   },
+   "lat": 34.87801,
+   "lng": -6.29408,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "moulay-yacoub",
+   "label": "Moulay Yacoub",
+   "sources": {
+    "sahha": "moulay-yacoub"
+   },
+   "lat": 32.60604,
+   "lng": -5.58728,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "mrirt",
+   "label": "Mrirt",
+   "sources": {
+    "sahha": "mrirt"
+   },
+   "lat": 33.16383,
+   "lng": -5.56543,
+   "pharmacies_seen": 11,
+   "center_source": "osm"
+  },
+  {
+   "key": "nador",
+   "label": "Nador",
+   "sources": {
+    "sahha": "nador",
+    "wadifapublic": "nador"
+   },
+   "lat": 35.17399,
+   "lng": -2.92812,
+   "pharmacies_seen": 40,
+   "center_source": "osm"
+  },
+  {
+   "key": "nouaceur",
+   "label": "Nouaceur",
+   "sources": {
+    "sahha": "nouaceur"
+   },
+   "lat": 33.36785,
+   "lng": -7.56815,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "ouad-amlil",
+   "label": "Ouad Amlil",
+   "sources": {
+    "sahha": "ouad-amlil"
+   },
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "ouarzazate",
+   "label": "Ouarzazate",
+   "sources": {
+    "sahha": "ouarzazate"
+   },
+   "lat": 30.92019,
+   "lng": -6.91092,
+   "pharmacies_seen": 8,
+   "center_source": "osm"
+  },
+  {
+   "key": "ouazzane",
+   "label": "Ouazzane",
+   "sources": {
+    "sahha": "ouazzane"
+   },
+   "lat": 34.79728,
+   "lng": -5.58172,
+   "pharmacies_seen": 11,
+   "center_source": "pins"
+  },
+  {
+   "key": "oued-zem",
+   "label": "Oued Zem",
+   "sources": {
+    "sahha": "oued-zem",
+    "wadifapublic": "oued-zem"
+   },
+   "lat": 32.8625,
+   "lng": -6.57105,
+   "pharmacies_seen": 4,
+   "center_source": "osm"
+  },
+  {
+   "key": "oujda",
+   "label": "Oujda",
+   "sources": {
+    "sahha": "oujda",
+    "lematin": "oujda",
+    "wadifapublic": "oujda"
+   },
+   "lat": 34.67787,
+   "lng": -1.92931,
+   "pharmacies_seen": 27,
+   "center_source": "osm"
+  },
+  {
+   "key": "ouled-teima",
+   "label": "Ouled Teima",
+   "sources": {
+    "sahha": "ouled-teima"
+   },
+   "lat": 30.39271,
+   "lng": -9.2133,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "oulmes",
+   "label": "Oulmes",
+   "sources": {
+    "sahha": "oulmes"
+   },
+   "lat": 33.42551,
+   "lng": -6.00449,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "rabat",
+   "label": "Rabat",
+   "sources": {
+    "sahha": "rabat",
+    "guidepharmacies": "rabat",
+    "lematin": "rabat",
+    "wadifapublic": "rabat"
+   },
+   "bank": "south",
+   "lat": 34.02185,
+   "lng": -6.84089,
+   "pharmacies_seen": 98,
+   "center_source": "osm"
+  },
+  {
+   "key": "rissani",
+   "label": "Rissani",
+   "sources": {
+    "sahha": "rissani"
+   },
+   "lat": 31.28474,
+   "lng": -4.26699,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "safi",
+   "label": "Safi",
+   "sources": {
+    "sahha": "safi",
+    "wadifapublic": "safi"
+   },
+   "lat": 32.29942,
+   "lng": -9.23953,
+   "pharmacies_seen": 19,
+   "center_source": "osm"
+  },
+  {
+   "key": "sale",
+   "label": "Salé",
+   "sources": {
+    "sahha": "sale",
+    "guidepharmacies": "sale",
+    "wadifapublic": "sale"
+   },
+   "bank": "north",
+   "lat": 34.04489,
+   "lng": -6.81402,
+   "pharmacies_seen": 112,
+   "center_source": "osm"
+  },
+  {
+   "key": "sale-al-jadida",
+   "label": "Salé Al Jadida",
+   "sources": {
+    "sahha": "sale-al-jadida",
+    "wadifapublic": "sala-al-jadida"
+   },
+   "bank": "north",
+   "lat": 34.00007,
+   "lng": -6.738,
+   "center_source": "pins",
+   "pharmacies_seen": 14
+  },
+  {
+   "key": "sefrou",
+   "label": "Séfrou",
+   "sources": {
+    "sahha": "sefrou"
+   },
+   "lat": 33.8249,
+   "lng": -4.83334,
+   "pharmacies_seen": 22,
+   "center_source": "osm"
+  },
+  {
+   "key": "selouane",
+   "label": "Selouane",
+   "sources": {
+    "sahha": "selouane"
+   },
+   "lat": 35.07284,
+   "lng": -2.94172,
+   "pharmacies_seen": 15,
+   "center_source": "osm"
+  },
+  {
+   "key": "settat",
+   "label": "Settat",
+   "sources": {
+    "sahha": "settat",
+    "wadifapublic": "settat"
+   },
+   "lat": 33.0024,
+   "lng": -7.61987,
+   "center_source": "osm",
+   "pharmacies_seen": 13
+  },
+  {
+   "key": "sidi-bennour",
+   "label": "Sidi Bennour",
+   "sources": {
+    "sahha": "sidi-bennour"
+   },
+   "lat": 32.65078,
+   "lng": -8.42421,
+   "pharmacies_seen": 2,
+   "center_source": "osm"
+  },
+  {
+   "key": "sidi-bouzid",
+   "label": "Sidi Bouzid",
+   "sources": {
+    "sahha": "sidi-bouzid"
+   },
+   "lat": 33.22952,
+   "lng": -8.55091,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "sidi-ifni",
+   "label": "Sidi Ifni",
+   "sources": {
+    "sahha": "sidi-ifni"
+   },
+   "lat": 29.37913,
+   "lng": -10.17156,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "sidi-kacem",
+   "label": "Sidi Kacem",
+   "sources": {
+    "sahha": "sidi-kacem"
+   },
+   "lat": 34.22641,
+   "lng": -5.71143,
+   "pharmacies_seen": 12,
+   "center_source": "osm"
+  },
+  {
+   "key": "sidi-rahhal",
+   "label": "Sidi Rahhal",
+   "sources": {
+    "sahha": "sidi-rahhal"
+   },
+   "lat": 31.64658,
+   "lng": -7.47172,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "sidi-slimane",
+   "label": "Sidi Slimane",
+   "sources": {
+    "sahha": "sidi-slimane"
+   },
+   "lat": 34.25988,
+   "lng": -5.92725,
+   "pharmacies_seen": 16,
+   "center_source": "osm"
+  },
+  {
+   "key": "sidi-yahya-el-gharb",
+   "label": "Sidi Yahya El Gharb",
+   "sources": {
+    "sahha": "sidi-yahya-el-gharb"
+   },
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "skhirat",
+   "label": "Skhirat",
+   "sources": {
+    "sahha": "skhirat",
+    "wadifapublic": "skhirat"
+   },
+   "bank": "south",
+   "lat": 33.85067,
+   "lng": -7.02803,
+   "center_source": "osm",
+   "pharmacies_seen": 1
+  },
+  {
+   "key": "skoura",
+   "label": "Skoura",
+   "sources": {
+    "sahha": "skoura"
+   },
+   "lat": 31.06041,
+   "lng": -6.55755,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "smara",
+   "label": "Smara",
+   "sources": {
+    "sahha": "smara"
+   },
+   "lat": 26.74358,
+   "lng": -11.66455,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "souk-el-arba-du-gharb",
+   "label": "Souk El Arba du Gharb",
+   "sources": {
+    "sahha": "souk-el-arba-du-gharb"
+   },
+   "lat": 34.68752,
+   "lng": -6.00026,
+   "pharmacies_seen": 11,
+   "center_source": "osm"
+  },
+  {
+   "key": "souk-el-arbaa",
+   "label": "Souk El Arbaa",
+   "sources": {
+    "sahha": "souk-el-arbaa"
+   },
+   "pharmacies_seen": 0,
+   "lat": 34.68752,
+   "lng": -6.00026,
+   "center_source": "osm"
+  },
+  {
+   "key": "souk-sebt",
+   "label": "Souk Sebt",
+   "sources": {
+    "sahha": "souk-sebt"
+   },
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "souk-sebt-oulad-nemma",
+   "label": "Souk Sebt Oulad Nemma",
+   "sources": {
+    "sahha": "souk-sebt-oulad-nemma"
+   },
+   "lat": 32.29475,
+   "lng": -6.70066,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "tahannaout",
+   "label": "Tahannaout",
+   "sources": {
+    "sahha": "tahannaout"
+   },
+   "lat": 31.36727,
+   "lng": -7.94477,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "tahla",
+   "label": "Tahla",
+   "sources": {
+    "sahha": "tahla"
+   },
+   "lat": 34.05063,
+   "lng": -4.4224,
+   "pharmacies_seen": 8,
+   "center_source": "osm"
+  },
+  {
+   "key": "tamanar",
+   "label": "Tamanar",
+   "sources": {
+    "sahha": "tamanar"
+   },
+   "lat": 31.00312,
+   "lng": -9.67824,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "tamaris",
+   "label": "Tamaris",
+   "sources": {
+    "sahha": "tamaris"
+   },
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "tamesna",
+   "label": "Tamesna",
+   "sources": {
+    "sahha": "tamesna",
+    "wadifapublic": "tamesna"
+   },
+   "bank": "south",
+   "lat": 33.83198,
+   "lng": -6.92034,
+   "center_source": "osm",
+   "pharmacies_seen": 4
+  },
+  {
+   "key": "tan-tan",
+   "label": "Tan Tan",
+   "sources": {
+    "sahha": "tan-tan"
+   },
+   "lat": 28.43755,
+   "lng": -11.09866,
+   "pharmacies_seen": 11,
+   "center_source": "osm"
+  },
+  {
+   "key": "tanger",
+   "label": "Tanger",
+   "sources": {
+    "sahha": "tanger",
+    "wadifapublic": "tanger"
+   },
+   "lat": 35.76963,
+   "lng": -5.80335,
+   "pharmacies_seen": 133,
+   "center_source": "osm"
+  },
+  {
+   "key": "taounate",
+   "label": "Taounate",
+   "sources": {
+    "sahha": "taounate"
+   },
+   "lat": 34.53848,
+   "lng": -4.63599,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "taourirt",
+   "label": "Taourirt",
+   "sources": {
+    "sahha": "taourirt"
+   },
+   "lat": 34.41344,
+   "lng": -2.89383,
+   "pharmacies_seen": 10,
+   "center_source": "osm"
+  },
+  {
+   "key": "taroudant",
+   "label": "Taroudant",
+   "sources": {
+    "sahha": "taroudant"
+   },
+   "lat": 30.47065,
+   "lng": -8.87792,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "tata",
+   "label": "Tata",
+   "sources": {
+    "sahha": "tata"
+   },
+   "lat": 29.74639,
+   "lng": -7.96961,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "taza",
+   "label": "Taza",
+   "sources": {
+    "sahha": "taza"
+   },
+   "lat": 34.23016,
+   "lng": -4.0101,
+   "center_source": "osm",
+   "pharmacies_seen": 12
+  },
+  {
+   "key": "temara",
+   "label": "Témara",
+   "sources": {
+    "sahha": "temara",
+    "guidepharmacies": "temara",
+    "wadifapublic": "temara"
+   },
+   "bank": "south",
+   "lat": 33.91717,
+   "lng": -6.9238,
+   "pharmacies_seen": 57,
+   "center_source": "osm"
+  },
+  {
+   "key": "temara-harhoura",
+   "label": "Témara Harhoura",
+   "sources": {
+    "sahha": "temara-harhoura",
+    "wadifapublic": "harhoura"
+   },
+   "bank": "south",
+   "lat": 33.93093,
+   "lng": -6.94702,
+   "center_source": "pins",
+   "pharmacies_seen": 8
+  },
+  {
+   "key": "tetouan",
+   "label": "Tétouan",
+   "sources": {
+    "sahha": "tetouan",
+    "wadifapublic": "tetouan"
+   },
+   "lat": 35.5698,
+   "lng": -5.37469,
+   "pharmacies_seen": 39,
+   "center_source": "osm"
+  },
+  {
+   "key": "tifelt",
+   "label": "Tiflet (Tifelt)",
+   "sources": {
+    "sahha": "tifelt"
+   },
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "tiflet",
+   "label": "Tiflet",
+   "sources": {
+    "sahha": "tiflet"
+   },
+   "lat": 33.89401,
+   "lng": -6.31673,
+   "pharmacies_seen": 9,
+   "center_source": "osm"
+  },
+  {
+   "key": "tikiouine",
+   "label": "Tikiouine",
+   "sources": {
+    "sahha": "tikiouine"
+   },
+   "lat": 30.71426,
+   "lng": -9.72481,
+   "center_source": "osm",
+   "pharmacies_seen": 7
+  },
+  {
+   "key": "tinejdad",
+   "label": "Tinejdad",
+   "sources": {
+    "sahha": "tinejdad"
+   },
+   "lat": 31.5102,
+   "lng": -5.03382,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "tinghir",
+   "label": "Tinghir",
+   "sources": {
+    "sahha": "tinghir"
+   },
+   "lat": 31.52133,
+   "lng": -5.53116,
+   "pharmacies_seen": 2,
+   "center_source": "osm"
+  },
+  {
+   "key": "tit-mellil",
+   "label": "Tit Mellil",
+   "sources": {
+    "sahha": "tit-mellil"
+   },
+   "lat": 33.55141,
+   "lng": -7.48355,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "tiznit",
+   "label": "Tiznit",
+   "sources": {
+    "sahha": "tiznit"
+   },
+   "lat": 29.69862,
+   "lng": -9.73128,
+   "pharmacies_seen": 7,
+   "center_source": "osm"
+  },
+  {
+   "key": "youssoufia",
+   "label": "Youssoufia",
+   "sources": {
+    "sahha": "youssoufia"
+   },
+   "lat": 32.2458,
+   "lng": -8.53244,
+   "pharmacies_seen": 3,
+   "center_source": "osm"
+  },
+  {
+   "key": "zagora",
+   "label": "Zagora",
+   "sources": {
+    "sahha": "zagora"
+   },
+   "lat": 30.32791,
+   "lng": -5.837,
+   "pharmacies_seen": 4,
+   "center_source": "osm"
+  },
+  {
+   "key": "zaio",
+   "label": "Zaio",
+   "sources": {
+    "sahha": "zaio"
+   },
+   "lat": 34.94191,
+   "lng": -2.73416,
+   "center_source": "osm",
+   "pharmacies_seen": 0
+  },
+  {
+   "key": "zeghanghane",
+   "label": "Zeghanghane",
+   "sources": {
+    "sahha": "zeghanghane"
+   },
+   "lat": 35.15488,
+   "lng": -3.00456,
+   "center_source": "osm",
+   "pharmacies_seen": 6
+  },
+  {
+   "key": "ain-aouda",
+   "label": "Aïn Aouda",
+   "sources": {
+    "guidepharmacies": "ain-aouda",
+    "wadifapublic": "ain-el-aouda"
+   },
+   "bank": "south",
+   "lat": 33.91872,
+   "lng": -6.90649,
+   "center_source": "pins",
+   "pharmacies_seen": 33
+  },
+  {
+   "key": "anza-taddart",
+   "label": "Anza",
+   "sources": {
+    "wadifapublic": "anza-taddart"
+   },
+   "lat": 30.45428,
+   "lng": -9.64983,
+   "center_source": "pins",
+   "pharmacies_seen": 4
+  },
+  {
+   "key": "oulad-embarek",
+   "label": "Oulad Embarek",
+   "sources": {
+    "wadifapublic": "oulad-embarek"
+   },
+   "pharmacies_seen": 0
+  }
+ ]
+}
